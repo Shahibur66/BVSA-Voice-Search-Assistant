@@ -1,4 +1,4 @@
-## BVSA ~ Voice Search Assistant
+# BVSA ~ Voice Search Assistant
 
 Desktop application that searches most relevant web pages using voice built with python.
 
@@ -10,9 +10,9 @@ YouTube link :
 
 <hr>
 <p>[screenshot1]</p>
-<img src="assets/bvsa_1.png" width="41%" height="41%">
+<img src="assets/bvsa_s_1.png" width="41%" height="41%">
 <p>[screenshot2]</p>
-<img src="assets/bvsa_2.png" width="40%" height="40%">
+<img src="assets/bvsa_s_2.png" width="40%" height="40%">
 
 
 ### Usage
