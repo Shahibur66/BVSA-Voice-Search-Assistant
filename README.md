@@ -9,9 +9,9 @@ YouTube link : https://youtu.be/VUidT1mlkkI
 
 
 <hr>
-<p>[screenshot1]</p>
+<p>[BVSA_1]</p>
 <img src="assets/bvsa_s_1.png" width="41%" height="41%">
-<p>[screenshot2]</p>
+<p>[BVSA_2]</p>
 <img src="assets/bvsa_s_2.png" width="40%" height="40%">
 
 
