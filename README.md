@@ -9,9 +9,9 @@ YouTube link : https://youtu.be/VUidT1mlkkI
 
 
 <hr>
-<p>[Font view 1]</p>
+<p>Font view 1</p>
 <img src="assets/bvsa_s_1.png" width="41%" height="41%">
-<p>[Font view 2]</p>
+<p>Font view 2</p>
 <img src="assets/bvsa_s_2.png" width="40%" height="40%">
 
 
