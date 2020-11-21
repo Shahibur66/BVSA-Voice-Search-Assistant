@@ -7,13 +7,20 @@ Desktop application that searches most relevant web pages using voice built with
 
 YouTube link : https://youtu.be/VUidT1mlkkI
 
-
 <hr>
-<p>Font view 1</p>
-<img src="assets/bvsa_s_1.png" width="41%" height="41%">
-<p>Font view 2</p>
-<img src="assets/bvsa_s_2.png" width="40%" height="40%">
 
+<table align="center">
+    <tr>
+        <td align="center">
+         <p>View 1</p>
+        <img src="assets/bvsa_s_1.png" alt="screenshot of font view 1" width="61%" height="41%"/>   
+        </td>
+        <td align="center">
+        <p>View 2</p>
+         <img src="assets/bvsa_s_2.png" alt="screenshot of font view 2" width="60%" height="40%"/>
+        </td>
+    </tr>
+</table>
 
 ### Usage
 
